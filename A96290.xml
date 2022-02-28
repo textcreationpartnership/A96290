@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The two speeches of the Lord Wharton, spoken in Guild-Hall, Octob. 27. 1642. In which are contained a full and true relation of the battell betweene the two armies at Kinton. Corrected by the authors owne hand.</title>
+            <author>Wharton, Philip Wharton, Baron, 1613-1696.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96290</idno>
+            <idno type="STC">Wing W1574</idno>
+            <idno type="STC">Thomason E127_27</idno>
+            <idno type="STC">ESTC R21512</idno>
+            <idno type="EEBO-CITATION">99871439</idno>
+            <idno type="PROQUEST">99871439</idno>
+            <idno type="VID">156211</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96290)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156211)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 22:E127[27])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The two speeches of the Lord Wharton, spoken in Guild-Hall, Octob. 27. 1642. In which are contained a full and true relation of the battell betweene the two armies at Kinton. Corrected by the authors owne hand.</title>
+                  <author>Wharton, Philip Wharton, Baron, 1613-1696.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Sa: Gellibrand,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotation on Thomason copy: "Nouemb: 18th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+               <term>Kineton (Warwickshire) --  History, Military --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156211:1" rendition="simple:additions"/>
+            <p>THE TWO SPEECHES <hi>OF THE</hi> LORD <hi>WHARTON,</hi> Spoken in Guild-Hall, <hi>Octob.</hi> 27. 1642. In which are contained a full and true Relation of the Battell betweene the two Armies at <hi>Kinton.</hi> Corrected by the Authors owne hand.</p>
+            <p>London Printed for <hi>Sa: Gellibrand,</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:156211:2"/>
+            <head>The Lord <hi>Wharton</hi> his Speech.</head>
+            <p>
+               <seg rend="decorInit">M</seg>Y Lords, and you the Aldermen, and Commons of this City, in a buſineſſe of this very great con<g ref="char:EOLhyphen"/>ſequence &amp; concernment, it was very well known to my Lord Generall, that you could not but bee full of great expectations: whereupon my Lord according to his duty tooke care for to give information to the Parliament, to thoſe that had ſent him, of what had proceeded; in the very next place it was his particular reſpect to this City, to my Lord Maior, the Aldermen, the Common Councell, and all the Commons of this Citie, that they might likewiſe be ac<g ref="char:EOLhyphen"/>quainted with the ſucceſſe of that buſineſſe, towards which they themſelves had beene at ſo much expences, and had ſhewed ſo much love and kindneſſe in all the proceedings of this buſineſſe: for that purpoſe, becauſe that Letters might be uncertaine, and might miſcarry, there being great interception of them, (the Forces of the Armies being cloſe together) my Lord thought fit to ſend Maſter <hi>Strode,</hi> a Member of the Houſe of Commons, and my ſelf, who ſhould not willingly have undertaken to have beene meſſengers of ill tidings, and for the truth of our report, though we already heare that there are thoſe that have ſo much malignity as to oppoſe it, yet the certainty of it will cleare it ſelfe, and therefore there ſhall neede no Apologies to be made, but that which ſhalbe ſaid to you ſhalbe nothing but the truth, in a very cleare way of relation of what hath paſt.</p>
+            <p>Gentlemen, I ſhall open to you as neare as I can, as it comes within my memory, thoſe things of circumſtance which are worthy the taking notice of, and one in the firſt place ſhall bee, the occaſion why ſo many of the Forces were not then upon the place, which you will finde to be upon very good ground and reaſon, for the preſervation of the Countries that were behind, and of this Citie, which is the particular thing in the care, and now under the diligence of my Lord General to preſerve. There was left at Hereford, which lies upon the confines of Wales, a Regiment of Foot under the Command of my L. of Stamford,
+<pb facs="tcp:156211:2"/>and a Troop or two of Horſe, that the power of Wales might not fall in upon Gloceſter-ſhire, and upon the of river of Severn, and ſo upon the Weſt. There was likewiſe left at Worceſter (which you all know how it is ſeated upon the river of Severn, and what advantage it hath to intercept all force that ſhall come from Shrewsbury downe into the Weſt) a Regiment of my Lords Saint <hi>Johns,</hi> and Sir <hi>John Merricks.</hi> There was for the ſafetie of Coventry (for that was a Towne it was likely the King might have fallen upon) the Regiment of my Lord <hi>Rochford;</hi> but it ſeemes that his Excellency the Earle of Eſſex his Ar<g ref="char:EOLhyphen"/>my did ſo quickly come up to the Kings, that the King thought it no way fit or advantagious for him to ſpend any time upon thoſe places, for certainly they would have quickly beene relieved, ſo that the King ſlipt by Warwicke and Coventry, though they are Townes, as particularly under the eye and care of thoſe which direct the Kings Counſell, as any other in the whole kingdome, excepting this. There was likewiſe upon the ſuddenneſſe of my Lords march, two Regiments of Foot, one under the command of a Gentleman you all know, Colonell <hi>Hampden,</hi> and the other under the command of Colonell <hi>Grantham,</hi> with ſome 10. or 12. Troops of Horſe, and theſe were one dayes march behind for the guard of ſome powder, and ammunition, and artillery, which my Lord would not ſtay for, pur<g ref="char:EOLhyphen"/>poſely upon his diligence and deſire that there ſhould not be an houre loſt in his march up to the other Army, and that hee might make all haſt in comming up to the ſafeguard of this Town, &amp; his deſire there<g ref="char:EOLhyphen"/>of was ſuch, that he kept for 2. or 3. dayes together a dayes march before thoſe Forces afore named with Col. <hi>Hampden,</hi> and ſo there be<g ref="char:EOLhyphen"/>ing another Regiment lodged in Banbury, occaſionally for their own ſafety, there was with my Lord when the Battell was fought upon the Lords day, 11. Regiments of Foot, and about the number of 35. or 37. or 40. Troops or Horſe. That which makes me ſay this to you, is partly for your ſatisfactions that you may know the reaſons of the ab<g ref="char:EOLhyphen"/>ſence of ſo many of the Forces, and partly that you may give the more glory to God for his bleſſing, and for his preſervation of that remnant of the Army which was together; being as I have ſaid about 11. Regiments of Foot, and a matter of 35. or 40. Troops of Horſe.</p>
+            <p>Upon the Saturday at night about nine or ten a clocke at night the Army came to Kenton, and the next morning about 7. a clock (though
+<pb facs="tcp:156211:3"/>all that night there was newes came that the King was going to Ban<g ref="char:EOLhyphen"/>bury) we had certaine information hee was comming downe a hill, which is called Edge-hill, which hath ſome advantage by nature for breaſt-works, and ſuch things as thoſe are; that hill the Kings Army came downe, his Army comming downe, my Lord of Eſſex preſent<g ref="char:EOLhyphen"/>ly drew out into the Field and drew his Army into a place of as good advantage as poſſible he could, though the other Army had the advan<g ref="char:EOLhyphen"/>tage of the hill, which they were poſſeſſed of before, and at the be<g ref="char:EOLhyphen"/>ginning of the day the wind it was againſt us, and was for the advan<g ref="char:EOLhyphen"/>tage of the other Army. The preparation on both ſices was for the making of them ready for fight, and the Kings comming downe the hill was ſo long, that there was nothing done till 3. or 4. in the after<g ref="char:EOLhyphen"/>noone, ſaving the ſhooting of ſome Cannon. And Gentlemen I ſhall tell you the worſt as well as the beſt, that you may know all, and that when you have known the worſt, you may find it in your judgements, to give the more praiſe to God for his mercy, after there was ſo much probability of having the worſt of it.</p>
+            <p>After that we had ſhot 2. or 3. peeces of Ordnance, they began for to ſhoot ſome of theirs, and truly not long after, before there was any near execution, there was 3. or 4. of our Regiments fairely ran away. I ſhall name you the particulars, and afterwards name you ſuch of thoſe as at the preſent ſhall come within my memory that did the ex<g ref="char:EOLhyphen"/>traordinary ſervice, whereof you will finde thoſe of this Citie to have beene very extraordinary inſtruments. There were that ran away, to be bold with my ſelfe firſt, my Regiment, my Lord <hi>Mandevils,</hi> Sir <hi>William Fairfaxes,</hi> Sir <hi>Henry Cholmleyes,</hi> theſe did fairely run away in deſpight of the Officers.</p>
+            <p>Gentlemen, you ſee by this time I am like to tell you the truth of every thing; but yet I muſt ſay this, that though they did ſo, yet I hope there will be a convenient and good number of them got together againe, that may ſhew themſelves in better condition, and better way of ſervice then yet they have done, I hope ſo, and by the bleſſing of God it may be ſo, for they are but young Souldiers, and we have ſeene very good experience of ſome that have this laſt battle done very extraordinary and gallant ſervice, who had the misfortune before to be under a cloud. Not long after there was a charge upon
+<pb facs="tcp:156211:3"/>the left wing of the Horſe, and there I conceive there was a matter of 18. or 19. Troops, and truely I cannot ſay they did ſo well as they ſhould though I hope that they will be brought together againe to doe very good ſervice hereafter; but ſo it is they had the worſt of it; by this you will ſee that at the beginning of the day we might thinke it would not prove ſo well as it pleaſed God it did afterwards in the cloſe of the day, for 4. of our Regiments were departed and one halfe of the Horſe were not in good order; but it pleaſed God then to begin to ſhew himſelfe for after they had paſt the left wing of our Horſe, I cannot attribute it to any thing but Gods owne providence, their Horſe that had paſt through ours went to the Towne where all our baggage was; the baggage of the Officers and the private perſons of the Army, not they of the Artillery or publique treaſury, but the Colonels carts, and the Captaines Carts, and ſuch proviſion as that; there they tooke a baite upon our pillage and fell a plundering, while the reſt of the Army was a fighting, and indeed my Lord Gene<g ref="char:EOLhyphen"/>rall had ſome more loſſe then ordinary by ſome cloathes and money he had there, but we thanke God for it, for thereby the reſt of our Ar<g ref="char:EOLhyphen"/>my had better opportunitie to doe that ſervice they did.</p>
+            <p>My Lord Generall himſelfe upon this extremity did begin to ſhew himſelfe to be more then an ordinary man, and indeed I thinke more then I have heard tell of any man, for he charged up at ſeverall times, both with Horſe and Foot, and perticularly at the head of one of the diviſions of his own Regiments of Foot, which was raiſed here in Eſſex, and though ſo many ill paſſages happened before, yet with his Excellencies valour, conduct and encouragement, his own Troop of Horſe fell with that diviſion of his Regiment of Foot upon the Kings owne Regiment (which they had moſt hopes of) and was called the red Regiment, and after a ſore and bitter fight (for to give them their due both ſides fought very well, and particu<g ref="char:EOLhyphen"/>larly my Lord Generalls Serjeant Major who did very gallantly) there was killed the Kings Standard-bearer Sir <hi>Edw. Varney,</hi> they took the Kings Standard which was raiſed up againſt the Parliament, and it was brought my L. Generall, and he delivered it to a ſervant which was not ſo carefull as he ought to have been, but loſt that by careleſ<g ref="char:EOLhyphen"/>neſſe which was gotten by force. We tooke likewiſe the Kings Gene<g ref="char:EOLhyphen"/>rall
+<pb facs="tcp:156211:4"/>priſoner, and carried him away; we tooke priſoner my Lord Gene<g ref="char:EOLhyphen"/>rals ſon, my L. <hi>Willoughby,</hi> that perſon you have heard ſo much of, and been ſo well acquainted with here, Col <hi>Lunsford</hi> which ſhould have had the tower, he was likewiſe taken priſoner and Sir <hi>Edward Strad<g ref="char:EOLhyphen"/>ling,</hi> Col. <hi>Vavaſour,</hi> and divers others of qualitie, My Lord <hi>Awbirney,</hi> &amp; <hi>Munroy</hi> a Scotchman of great qualitie was ſlain. While theſe were upon this ſervice. I muſt give the right to divers other of the Officers of the Horſe which were upon the right wing, that they did extraor<g ref="char:EOLhyphen"/>dinary ſervice too, that was my L. of Bedford himſelfe, who did ve<g ref="char:EOLhyphen"/>ry gallantly, and Sir <hi>Wil. Belfore</hi> the late Lieutenant of the Tower, Sir <hi>Philip Stapleton,</hi> and all that Troop which formerly had been under ſome other kind of report, they did extraordinary ſervice, charged ve<g ref="char:EOLhyphen"/>ry bravely, after they had ſtood as I am informed ſeventeen ſhot of Cannon ſhot againſt them, by all which God be thanked not a man of them hurt: there was likewiſe very extraordinary ſervice perfor<g ref="char:EOLhyphen"/>med by my Lord <hi>Gray,</hi> and Sir <hi>Arthur Hazlerig,</hi> who indeed was a helpe to give a great turne to the day, by cutting off a Regiment of the Kings, which was called the blew Regiment, and there were many other Gentlemen of great worth, that did very extraordinary ſervice too; I would not have you underſtand, that others did not doe, be<g ref="char:EOLhyphen"/>cauſe I remember not their names, for I ſpeake to you now but on the ſudden, naming onely theſe that come to memory, and you will heare more of the reſt upon other occaſions. Upon the cloſe of the day, wee know it for certaine, that the beſt Regiment of the Kings was cut off, and the next beſt Regiment, which was that under my L. of <hi>Lind<g ref="char:EOLhyphen"/>ſey:</hi> there was all the priſoners taken I told you of: there were thoſe perſons of qualitie ſlaine I told you of, and there was as we conceive (this I tell you upon information, as we conceive, and are informed by the Countrey-men that ſaw them bury the dead next day, and bring them up into heaps, there was I ſay, as is informed and conceived) about 3000. of theirs ſlain; and we cannot have any information, to give us reaſon to beleeve that there was above 300. of ours ſlain; And this was to be obſerved of Gods providence in this dayes worke, that though the battell began ſo improbably of our ſide, yet before the cloſe of the night we had got the ground that they were upon, we had gotten the wind, and we doe not know, nor by information conceive,
+<pb facs="tcp:156211:4"/>that there was 20. men of ours kill'd by all the Kings Cannon: when it was night there could be no more fighting, we drew our Forces to<g ref="char:EOLhyphen"/>gether, and ſo likewiſe did the King, they were then but at a reaſona<g ref="char:EOLhyphen"/>ble diſtance, it may be three times, or ſix times the diſtance of this room, or ſome ſuch like diſtance, but in the night the Forces of the King withdrew up the Hill from whence they came; and my L. Ge<g ref="char:EOLhyphen"/>nerall amongſt others ſent my ſelf for to bring on thoſe forces which I told you were a dayes march behinde with Colonell <hi>Hampden,</hi> which about one or two a clocke at night came up accordingly; and joyned with the reſt of the Army, when the King had drawn his For<g ref="char:EOLhyphen"/>ces up the hill, my Lord Generall about one or two a clocke drew us a matter of three quarters of a mile further from the hill, that he might be out of the power of the Cannon. Wee ſtood to our Armes all the night, in the morning wee drew our ſelves againe into the fields, but we heard no more newes of the other Army, more then wee ſaw ſome ſcattering men, and ſome Troopes of Horſe on the top of the hill, which came to bury the dead, and take away ſome of their Cannon, and ſuch things as thoſe were, but they came no otherwiſe down the hill, neither that day, nor on <hi>Tueſday,</hi> though there were divers reports flew abroad and I beleeve came hither, that there was fighting on <hi>Munday</hi> and <hi>Tueſday,</hi> yet there was no fighting, for the King kept on the top of the hill, and when Maſter <hi>Strode</hi> and my ſelfe came away on Tueſday at 4. a clock, we can aſſure you there was no more action, then was on the Lords day.</p>
+            <p>Gentlemen, I ſhall after I have declared this narration to you, ſay no more then this, that certainly my Lord Generall himſelfe, hath de<g ref="char:EOLhyphen"/>ſerved as much in this ſervice for his paines and care, and for the par<g ref="char:EOLhyphen"/>ticular ſucceſſe that was upon it, as truly I thinke ever any Gentleman did; and in the next place, that as God of his own immediate provi<g ref="char:EOLhyphen"/>dence did thus declare himſelfe for the owning of his own cauſe, ſo you will not forget to apply your ſelves to God, to give him the glo<g ref="char:EOLhyphen"/>ry, and to intreat his bleſſing upon the future guidance of the great worke.</p>
+         </div>
+         <div type="speech">
+            <pb facs="tcp:156211:5"/>
+            <head>The Lord Wharton his ſecond Speech.</head>
+            <p>GEntlemen, I ſhal trouble you but with a word or two, the one is upon part of that narrative, which I began with all, wherein tru<g ref="char:EOLhyphen"/>ly I take my ſelf to be very much beholding to that Gentleman that; ſpoke after me, that he did not forget to informe you of the ex<g ref="char:EOLhyphen"/>traordinary bleſſing, that God beſtowed upon the courage of honeſt pious and religious men: for truely there was very few that did any extraordinary ſervice, but ſuch as had a mark of Religion upon them: That which I omitted to tell you, was this, that one great cauſe of the preſervation, &amp; of the ſucceſſe of that day, was that the Troops under the Command of Prince <hi>Robert,</hi> while we were a fighting, not only pillaged the baggage (which was but a poore imployment;) but killed Country-men that came in with their teemes, and poore women, and children that were with them; this I thinke comes not amiſſe to tell you, becauſe you may ſee what is the thing they aime at, which is pil<g ref="char:EOLhyphen"/>lage, and baggage, and plundering, and the way which they would come by it is murdering, and deſtroying, and therefore it will come in very properly, to incourage you to that work, which theſe two noble Lords have ſo well opened unto you, which is, the ſtanding upon your defence, and to that I ſhall onely adde this, that when you ſhall have done that in that meaſure, and in that proportion (which we doe not doubt but you will doe, becauſe you have alwaies ſhewed your affections, and your wiſedomes, to be ſo great in the carriage on of this buſineſſe, I ſay, when you ſhall have ſo behaved your ſelves,) there is no doubt but Gods bleſſing will be upon it, and you will bee ſure to have an extraordinary back, the Army wil be ſure to be on the one ſide, when you with your ſtrength will be on the other ſide, and when that Army ſhall lie between theſe two, without queſtion it will come to a very ſhort concluſion, when you may reap the fruit of your labours that you have beene at, to your benefit, and your poſterities.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
